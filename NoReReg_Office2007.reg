@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\Word\Options]
+"NoReReg"=dword:00000001
+[HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\Excel\Options]
+"NoReReg"=dword:00000001
+[HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\Access\Options]
+"NoReReg"=dword:00000001
+[HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\Outlook\Options]
+"NoReReg"=dword:00000001
+[HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\PowerPoint\Options]
+"NoReReg"=dword:00000001
