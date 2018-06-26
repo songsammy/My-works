@@ -1,1 +1,1 @@
-<code><a style="background-color: #4caf50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px;" href="#">Button</a></code>
+<code>&#60;a style="background-color: #4caf50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px;" href="#">Button &#60;/a&#62; </code>
